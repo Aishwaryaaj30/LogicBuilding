@@ -23,7 +23,7 @@ Algorithm:
 // Output   :           int
 // Description  :       Perform the count of even digit
 // Date :               29/05/2026 
-// Author   :           Sharvari Gorakhnath Bhosale
+// Author   :           Aishwarya Mohan Jadhav
 //
 /////////////////////////////////////////////////////////////////////////////
 
